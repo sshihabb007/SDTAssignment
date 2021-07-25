@@ -1,0 +1,36 @@
+
+git init
+
+git statuse
+
+
+git config --global user.name "SHIHAB"
+
+git config --global user.email "sshihabb007@gmail.com"
+
+git config --list
+
+
+git add .
+
+git commit (press I then type and pres ESC)
+
+git commit -m "type here"
+
+git log
+
+git log --onelene
+
+git push -u origin main
+
+git checkout
+
+git diff
+
+git push -u origin main
+
+git clone URL
+
+
+
+
