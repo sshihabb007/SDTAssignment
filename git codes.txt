@@ -21,16 +21,30 @@ git log
 
 git log --onelene
 
+git checkout 'code'
+
+git checkout main
+
 git push -u origin main
 
-git checkout
-
 git diff
+
+Git remote add origin 'Link'
 
 git push -u origin main
 
 git clone URL
 
+git remove file_name
 
+got reset head file_name
 
+git fetch 
 
+git pull
+
+git branch idbranch
+
+git checkout idbranch
+
+git checkout -b "branch name"
