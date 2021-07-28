@@ -48,3 +48,7 @@ git branch idbranch
 git checkout idbranch
 
 git checkout -b "branch name"
+
+git merge idbranch
+
+
